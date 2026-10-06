@@ -57,4 +57,4 @@
 
 ## 1.2.4 - 2026-05-26
 
-1.2.4 重点补齐 26.1 系列构建、编辑器交互和跨版本稳定性。历史详情见 [GitHub Release](https://github.com/AnkiLove/AnkiNBT/releases/tag/v1.2.4) 与 Wiki。
+1.2.4 重点补齐 26.1 系列构建、编辑器交互和跨版本稳定性。历史详情见 [GitHub Release](https://github.com/omiyi/AnkiNBT/releases/tag/v1.2.4) 与 Wiki。
