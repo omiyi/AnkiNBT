@@ -11,9 +11,9 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21--1.21.11%20%7C%2026.1--26.2-38bdf8?style=flat-square)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric-supported-f5c542?style=flat-square)](https://fabricmc.net)
 [![NeoForge](https://img.shields.io/badge/NeoForge-supported-ff7a45?style=flat-square)](https://neoforged.net)
-[![Wiki](https://img.shields.io/badge/Wiki-中文%20%7C%20English-22c55e?style=flat-square)](https://omiyi.github.io/OmiyiNBT-wiki/)
+[![Wiki](https://img.shields.io/badge/Wiki-中文%20%7C%20English-22c55e?style=flat-square)](https://omiyi.github.io/AnkiNBT-wiki/)
 
-[下载 2.0.0](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0) · [使用文档](https://omiyi.github.io/OmiyiNBT-wiki/) · [更新记录](CHANGELOG.md) · [问题反馈](https://github.com/omiyi/AnkiNBT/issues)
+[下载 2.0.0](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0) · [使用文档](https://omiyi.github.io/AnkiNBT-wiki/) · [更新记录](CHANGELOG.md) · [问题反馈](https://github.com/omiyi/AnkiNBT/issues)
 
 </div>
 
@@ -46,7 +46,7 @@ AnkiNBT 是一个客户端编辑模组，用可视化界面编辑 Minecraft 物�
 - 修复跨版本村民交易序列化、职业/等级/类型保存和报价同步。
 - 完善中文输入、IME 焦点、鼠标选择和兼容层绘制返回值。
 
-完整内容见 [CHANGELOG.md](CHANGELOG.md) 和 [2.0.0 Wiki 更新日志](https://omiyi.github.io/OmiyiNBT-wiki/changelog-2.0.0/)。
+完整内容见 [CHANGELOG.md](CHANGELOG.md) 和 [2.0.0 Wiki 更新日志](https://omiyi.github.io/AnkiNBT-wiki/changelog-2.0.0/)。
 
 ## 主要功能
 
@@ -106,7 +106,7 @@ AnkiNBT 是一个客户端编辑模组，用可视化界面编辑 Minecraft 物�
 
 完整安装说明、功能指南、兼容矩阵、快捷键和中英文更新日志位于：
 
-https://omiyi.github.io/OmiyiNBT-wiki/
+https://omiyi.github.io/AnkiNBT-wiki/
 
 ## License
 
