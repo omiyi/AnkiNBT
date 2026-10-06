@@ -27,4 +27,4 @@
 
 请下载与加载器和 Minecraft 版本完全匹配的 JAR。`AnkiNBT-2.0.0-all-versions.zip` 包含全部构建，`SHA256SUMS.txt` 提供文件校验值。
 
-完整使用说明和版本差异见 [AnkiNBT Wiki](https://ankilove.github.io/AnkiNBT-wiki/)。
+完整使用说明和版本差异见 [AnkiNBT Wiki](https://omiyi.github.io/AnkiNBT-wiki/)。

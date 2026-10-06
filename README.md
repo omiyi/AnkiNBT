@@ -6,14 +6,14 @@
 
 适用于 Fabric 与 NeoForge 的 Minecraft 客户端物品、实体和村民交易编辑器。
 
-[![Version](https://img.shields.io/badge/version-2.0.0-22c7e8?style=flat-square)](https://github.com/AnkiLove/AnkiNBT/releases/tag/2.0.0)
-[![License](https://img.shields.io/github/license/AnkiLove/AnkiNBT?style=flat-square&color=334155)](LICENSE)
+[![Version](https://img.shields.io/badge/version-2.0.0-22c7e8?style=flat-square)](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0)
+[![License](https://img.shields.io/github/license/omiyi/AnkiNBT?style=flat-square&color=334155)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21--1.21.11%20%7C%2026.1--26.2-38bdf8?style=flat-square)](https://minecraft.net)
 [![Fabric](https://img.shields.io/badge/Fabric-supported-f5c542?style=flat-square)](https://fabricmc.net)
 [![NeoForge](https://img.shields.io/badge/NeoForge-supported-ff7a45?style=flat-square)](https://neoforged.net)
-[![Wiki](https://img.shields.io/badge/Wiki-中文%20%7C%20English-22c55e?style=flat-square)](https://ankilove.github.io/AnkiNBT-wiki/)
+[![Wiki](https://img.shields.io/badge/Wiki-中文%20%7C%20English-22c55e?style=flat-square)](https://omiyi.github.io/AnkiNBT-wiki/)
 
-[下载 2.0.0](https://github.com/AnkiLove/AnkiNBT/releases/tag/2.0.0) · [使用文档](https://ankilove.github.io/AnkiNBT-wiki/) · [更新记录](CHANGELOG.md) · [问题反馈](https://github.com/AnkiLove/AnkiNBT/issues)
+[下载 2.0.0](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0) · [使用文档](https://omiyi.github.io/AnkiNBT-wiki/) · [更新记录](CHANGELOG.md) · [问题反馈](https://github.com/omiyi/AnkiNBT/issues)
 
 </div>
 
@@ -46,7 +46,7 @@ AnkiNBT 是一个客户端编辑模组，用可视化界面编辑 Minecraft 物�
 - 修复跨版本村民交易序列化、职业/等级/类型保存和报价同步。
 - 完善中文输入、IME 焦点、鼠标选择和兼容层绘制返回值。
 
-完整内容见 [CHANGELOG.md](CHANGELOG.md) 和 [2.0.0 Wiki 更新日志](https://ankilove.github.io/AnkiNBT-wiki/changelog-2.0.0/)。
+完整内容见 [CHANGELOG.md](CHANGELOG.md) 和 [2.0.0 Wiki 更新日志](https://omiyi.github.io/AnkiNBT-wiki/changelog-2.0.0/)。
 
 ## 主要功能
 
@@ -83,7 +83,7 @@ AnkiNBT 是一个客户端编辑模组，用可视化界面编辑 Minecraft 物�
 
 ## 安装与使用
 
-1. 从 [GitHub Releases](https://github.com/AnkiLove/AnkiNBT/releases/tag/2.0.0) 下载与你的加载器和 Minecraft 版本完全匹配的 JAR。
+1. 从 [GitHub Releases](https://github.com/omiyi/AnkiNBT/releases/tag/2.0.0) 下载与你的加载器和 Minecraft 版本完全匹配的 JAR。
 2. Fabric 用户同时安装对应版本的 Fabric API。
 3. 将 JAR 放入游戏实例的 `.minecraft/mods/`。
 4. 进入游戏后，手持物品或在容器中悬停物品，按 `N` 打开编辑器。
@@ -106,7 +106,7 @@ AnkiNBT 是一个客户端编辑模组，用可视化界面编辑 Minecraft 物�
 
 完整安装说明、功能指南、兼容矩阵、快捷键和中英文更新日志位于：
 
-https://ankilove.github.io/AnkiNBT-wiki/
+https://omiyi.github.io/AnkiNBT-wiki/
 
 ## License
 
